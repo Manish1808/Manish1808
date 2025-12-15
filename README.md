@@ -3,7 +3,10 @@
 <h3 align="center">Undergraduate | Web developer | Programming enthusiast</h3>
 
 # 💫 About Me:
-🚀 Currently building **E-Sanchay**, an AI-powered financial literacy platform.<br>🤝 Open to collaborating on **web development** and **DSA-related** projects.<br>📖 Exploring advanced **Data Structures and Algorithms** to enhance problem-solving skills.<br>💡 Passionate about **React.js, Java, Dsa and database management**.<br>📬 Reach me at **pandirisaimanish@gmail.com**<br>🌐 My Portfolio:[www.saimanish.works](https://www.saimanish.works/) <br>🎬 Outside of coding, I love watching web series and movies!  
+🚀 Currently building **E-Sanchay**, an AI-powered financial literacy platform.<br>🤝 Open to collaborating on **web development** and **DSA-related** projects.<br>📖 Exploring advanced **Data Structures and Algorithms** to enhance problem-solving skills.<br>💡 Passionate about **React.js, Java, Dsa and database management**.<br>📬 Reach me at **pandirisaimanish@gmail.com**<br>🌐 My Portfolio:[www.saimanish.works]<a href="https://www.saimanish.works/" target="_blank" rel="noopener noreferrer">
+  www.saimanish.works
+</a>
+<br>🎬 Outside of coding, I love watching web series and movies!  
 
 
 # 💻 Tech Stack:
